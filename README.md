@@ -17,6 +17,7 @@ These designs were created for academic, creative, and concept-based projects.
 ### 📘 University Handbook Cover Design
 
 *(University of Kelaniya – Science Faculty Handbook)*
+
 ![Handbook Cover](book-cover.png)
 
 ---
