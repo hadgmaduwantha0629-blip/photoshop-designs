@@ -17,7 +17,7 @@ These designs were created for academic, creative, and concept-based projects.
 ### 📘 University Handbook Cover Design
 
 *(University of Kelaniya – Science Faculty Handbook)*
-![Handbook Cover](book cover.png)
+![Handbook Cover](book-cover.png)
 
 ---
 
@@ -38,7 +38,7 @@ These designs were created for academic, creative, and concept-based projects.
 ### 👻 Horror Film Background Design
 
 *(Dark cinematic scary theme)*
-![Horror Design](film cover bg.png)
+![Horror Design](film-cover-bg.png)
 
 ---
 
